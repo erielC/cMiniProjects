@@ -13,3 +13,4 @@ target_link_libraries(main.c
 glfw
 OpenGL::GL
 )
+
