@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/eriel/Documents/CodingLocal/openGLtest/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/main.c.dir/main.c.o -c /home/eriel/Documents/CodingLocal/openGLtest/main.c",
+  "file": "/home/eriel/Documents/CodingLocal/openGLtest/main.c"
+},
+{
+  "directory": "/home/eriel/Documents/CodingLocal/openGLtest/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/main.c.dir/glad/glad.c.o -c /home/eriel/Documents/CodingLocal/openGLtest/glad/glad.c",
+  "file": "/home/eriel/Documents/CodingLocal/openGLtest/glad/glad.c"
+}
+]
